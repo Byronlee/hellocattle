@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#999"
+    android:fadingEdge="horizontal"
+    android:focusable="true" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="239dp"
+        android:layout_height="340dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="#fff"
+        tools:context=".FromToActivity" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="6dp"
+            android:text="@string/toname"
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="285dp"
+            android:layout_marginLeft="-47dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/messge_content"
+            android:textColor="#777" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-86dp"
+            android:layout_marginTop="310dp"
+            android:text="@string/fromname"
+            android:textColor="#000" />
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/seek"
+        android:layout_width="255dp"
+        android:layout_height="26dp"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:max="100"
+        android:maxHeight="27.7dp"
+        android:minHeight="27.7dp"
+        android:progress="2"
+        android:progressDrawable="@drawable/bar"
+        android:thumb="@drawable/seek1"
+        android:thumbOffset="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignLeft="@+id/seek"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/messge" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignRight="@+id/seek"
+        android:text="@string/from_to_title"
+        android:textColor="#000"
+        android:textSize="16dp" />
+
+</RelativeLayout>

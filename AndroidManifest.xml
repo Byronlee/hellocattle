@@ -1,0 +1,49 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.niu.hellocattle"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".FromToActivity"
+            android:label="@string/title_activity_from_to" >
+        </activity>
+        <activity
+            android:name=".StoryActivity"
+            android:label="@string/title_activity_story" >
+        </activity>
+        <activity
+            android:name=".Ren_sayActivity"
+            android:label="@string/title_activity_ren_say" >
+        </activity>
+        <activity
+            android:name=".RemenberActivity"
+            android:label="@string/title_activity_remenber" >
+        </activity>
+        <activity
+            android:name=".BorthActivity"
+            android:label="@string/title_activity_borth" >
+          </activity>
+    </application>
+
+</manifest>

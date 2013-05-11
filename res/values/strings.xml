@@ -1,0 +1,92 @@
+<resources>
+
+    <string name="app_name">Hellocattle</string>
+    <string name="hello_world">根据图文类容，请输入谜底</string>
+    <string name="sure">确定</string>
+    <string name="power">Powered By Byronlee</string>
+    <string name="menu_settings">有一朵浮云一直漂浮在你的头顶....</string>
+    <string name="toname">TO:你心里</string>
+    <string name="fromname">From:我心里</string>
+    <string name="from_to_title">亲爱的牛田歌，您有一封新邮件</string>
+    <string name="messge_content">        亲爱的牛牛，牛牛，允许我用这样的方式送给你祝福.
+以前我有做的不好，是我不好。请您不要生气。每次你破涕而笑时，是我幸福最大的时刻。希望就这样平平静静的牵你手，一直走..我爱你，我的牛。
+然后...我会用更多的爱..来把这段感情永！！恒！！ 从2011年7月6日起，命运注定让两朵浮云
+结合去产生暴风雨，事实证明还产生了冰雹！之前做过很多错事，谢谢你的坚持！和谅解！我会用残留时间和爱多给你耍耍”流氓“
+希望你每天过的幸福，牛牛，我..爱..你！ 我爱你。 牛牛，生日快乐！！
+         --爱你的Byronlee</string>
+    <string name="title_activity_main">HelloCattle</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_from_to">FromToActivity</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="story_title">&#60;i&#62; The love store of ren and cattle &#60;/i &#62;</string>
+    <string name="story_content">    在那遥远的小山村，住着一位和牛深爱的人，因为缘分，使本以为至少可以考上川大的人和稍微努力就可以上北大的牛都考在
+          了成大，因为命中注定，使两个不同学院的人和牛在”放牛场“相识，相知，相恋！因为爱，以便使这个人在这个特殊的日子为了某种
+          表达在深夜续写着那份曾几何时没有的"流氓"。因为轮回时差，使这对人兽恋只有在每年的阳历5月11到农历7月初9生活在同一个国度
+          今天又是这一年一度的国度的最后一天。人为了了留恋，整夜难眠，孤灯夜下，追忆并记录心中那曾为有的”流氓“ 然后随着夜晚雾气的升起，许下祝福，愿下一个
+          光明她能够每天开心，幸福！并附上一句：牛，生日快乐！人爱你！
+          在相处的有一段时间断内，人类没有牛类的善良，坚持，摆脱不了人类的贪婪和欲望，做错了很多不应该做的事，是牛类感化人类，并引入正规，懂事的人类将永远
+          记住这份改变，然后珍惜现在，去创造美好的未来。今夜，人又把他们所有的经历的回忆过目了一遍，眼角突然湿润，不知是深夜的露水，还是思念的泪水...
+         因为病痛，人经常会想起曾几何时面临手术，面临死亡的心里情绪，陷入低谷的人也使这个人的家族陷入低谷，在现实和精神面临绝望的时候，牛总是用她温柔的笑容
+         和坚韧的意志力在鼓励和支持这个一蹶不振的人。一个弱小的牛类，在面对人时，总是笑，一副满脸天真的笑容，看上去是那么动人，去带给人温暖和力量，殊不知她背后
+         要承当多少压力..她用 她的心感化和感动了这个人。人说，亲爱的牛，爱你！ 牛很容易满足，有的时候人只给她个拥抱她或者是打个电话关心一下她都会感动的流下
+         眼泪，有时候，一块小小的西瓜她都会高兴的两三天不吃饭；牛，爱漂亮崇尚辣妹风格，所以爱穿类似夜店风格，人知道，所以什么超短裤都没有给她加短的底线；牛很守时，
+         所以每次见面都是牛等那个人；牛很爱说话，什么都要给你争一争，看着沾点小便宜的时候，开心的样子的时候，就只想让她多闹腾一会儿；牛总是说她胖，其实她不胖，但是人总是不说她不胖，就是想她多闹腾一会儿，以为那是一种幸福。牛，人爱你。因为人的事比较多，很少时间在一起，牛总是理解支持，以笑容给予肯定。渐渐的习惯她脸上有笑容，要是某天
+         没有了，人就会认为她不高兴了。牛，人喜欢你的笑容喜欢你每次可爱的揉揉眼镜和鼻子！ 牛有的时候很调皮，总是给人耍流氓，她说，幸福就是有人给你耍流氓！
+         人说，人很幸福。以后你想怎么耍就怎么耍，谢谢你带给他的幸福.....时间在继续，感情在发展，他们的爱情故事还在续演.....亲爱的牛，希望你每天快乐，幸福
+         也希望，这段人和牛的人兽恋 有一个圆满的结果。他们在努力，上帝在凑合，月老在笑....牛，我们下一个国度见。\n
+         寄语：生日快乐！    \n</string>
+    <string name="title_activity_ren_say">Ren_sayActivity</string>
+    <string name="ren_say_title">&#60;i&#62;My world,I want to say with you &#60;/&#160;i &#62;</string>
+    <string name="ren_say_content0">//I like computer and you are very support me\n
+//so I want to use computer language \n
+//to express what I want to say\n</string>
+    <string name="ren_say_content1">&#160;&#160;&#160;&#160;&#160;&#160;Ren ren = new Ren("Byronlee");\n
+&#160;&#160;&#160;&#160;&#160;&#160;Cattle cattle = new Cattle("tiangerniu");\n
+&#160;&#160;&#160;&#160;&#160;&#160;ren.heart_lived_with( cattle).love(forever); \n
+&#160;&#160;&#160;&#160;&#160;&#160;ren.want_to_say("today is u borthday,happy
+&#160;&#160;&#160;&#160;&#160;&#160;borthday,and I love u");\n</string>
+    <string name="ren_say_content2">//Heart has been in love with cattle\n
+//and today is u borthday,i want to say:\n
+//happy borthday,and I love u\n</string>
+    <string name="ren_say_content3">&#160;&#160; &#160;ren.know( cattle.know(cattle).love(ren)\n
+&#160;&#160; &#160;.miss(everyday) ).miss(every)\n
+&#160;&#160; &#160;ren.say_to(cattle).liveHappilyWith(u).end();\n</string>
+    <string name="ren_say_content4">// love you 10000 years\n</string>
+    <string name="ren_say_content5">&#160;&#160; &#160;function end(){\n
+&#160;&#160; &#160;&#160;&#160; &#160;int myAge = 20;\n
+&#160;&#160; &#160;&#160;&#160; &#160;while (myAge &#60; = 10000) {\n
+&#160;&#160; &#160;&#160;&#160; &#160;myAge++;\n
+&#160;&#160; &#160;}\n
+&#160;&#160; &#160;Log.v("Hold your hand and grow old together\n
+&#160;&#160; &#160;with you");\n
+&#160;&#160; &#160;Log.v("cattle，i love u ");\n
+&#160;&#160; &#160;Log.v("Happy borthday!");\n
+&#160;&#160; &#160;Log.v("\t 2012-8-23:03:17");\n
+&#160;&#160; &#160;}\n</string>
+    <string name="title_activity_remenber">RemenberActivity</string>
+    <string name="alltime">        Tiangerniu , We have been in love for\n
+        659 days 15 hours 48 minutes 54 second\n
+        //aggregate   
+      \n 1 year\n
+         414天\n
+         120318小时\n
+         123234234分钟\n
+         12321323423432秒\n    
+        Love u forever and ever   --Byronlee\n      </string>
+    <string name="title_activity_borth">BorthActivity</string>
+    
+     <string name="borth_rem">最后我想要你记住-- &#62;</string>
+     
+     
+     
+     <string name="end">
+         就算全世界离开你，还有一个我来陪，怎么舍得让你受尽冷风吹...\n
+          我其是就是一匹奋战的狼，北风吹过，我只有咬着冷冷的牙，报以两声长啸....\n
+
+     </string>
+     
+     
+     
+    
+
+</resources>

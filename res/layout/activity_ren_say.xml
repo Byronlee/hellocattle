@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:shrinkColumns="0,1,2" >
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/ren_say_title" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content0"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="left"
+                android:textColor="#069"
+                android:text="@string/ren_say_content0" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content1"
+                android:layout_width="fill_parent"
+                android:layout_height="83dp"
+                android:text="@string/ren_say_content1" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content2"
+                android:layout_width="fill_parent"
+                android:layout_height="49dp"
+                android:textColor="#069"
+                android:text="@string/ren_say_content2" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content3"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:text="@string/ren_say_content3" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content4"
+                android:layout_width="fill_parent"
+                android:layout_height="16dp"
+                android:textColor="#069"
+                android:text="@string/ren_say_content4" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/ren_say_content5"
+                android:layout_width="fill_parent"
+                android:layout_height="188dp"
+                android:text="@string/ren_say_content5" />
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tableLayout1"
+        android:layout_centerHorizontal="true"
+        android:background="#4D90FE"
+        android:text="Now, i hove something send to you,look: click" />
+
+</RelativeLayout>
